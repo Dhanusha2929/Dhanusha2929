@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dhanusha2929</h1>
+
+<h1 align="center">Hi 👋, I'm Dhanusha</h1>
 <h3 align="center">A passionate Sql developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif  ">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanusha2929&label=Profile%20views&color=0e75b6&style=flat" alt="dhanusha2929" /> </p>
 
@@ -28,4 +29,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanusha2929&show_icons=true&locale=en" alt="dhanusha2929" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanusha2929&" alt="dhanusha2929" /></p>
+
+
+
+
+
+
+
+
+
+
 
