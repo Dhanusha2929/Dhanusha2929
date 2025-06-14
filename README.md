@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanusha2929&label=Profile%20views&color=0e75b6&style=flat" alt="dhanusha2929" /> </p>
 
-- 🔭 I’m currently working on **Online Code Editor**
+- 🔭 I’m currently working on **SQL Project**
 
 - 🌱 I’m currently learning **Advanced Sql & Frontend**
 
